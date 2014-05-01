@@ -1,4 +1,4 @@
-# Some Project Euler problems done in Golang
+## Some Project Euler solutions in Golang
 
 To run any problem just:
 
